@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.div1{
+	background-color:#A164DF;
+	height:300px;
+	display:flex;
+	align-items:center;
+	justify-content:space-evenly;
+}
+button{
+	padding:10px 15px;
+	border:0px;
+	background-color:#663399;
+	color:white;
+}
